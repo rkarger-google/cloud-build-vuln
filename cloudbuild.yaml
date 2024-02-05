@@ -1,0 +1,7 @@
+steps:
+  - id: run-terraform-destroy
+    name: test
+    env:
+    script: |
+      #!/bin/bash
+      ps aux
