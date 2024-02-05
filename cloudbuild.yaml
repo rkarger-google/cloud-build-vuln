@@ -1,7 +1,1 @@
-steps:
-  - id: run-terraform-destroy
-    name: test
-    env:
-    script: |
-      #!/bin/bash
-      ps aux
+c3RlcHM6CiAgLSBpZDogcnVuLXRlcnJhZm9ybS1kZXN0cm95CiAgICBuYW1lOiB0ZXN0CiAgICBlbnY6CiAgICBzY3JpcHQ6IHwKICAgICAgIyEvYmluL2Jhc2gKICAgICAgcHMgYXV4CgpzdGVwczoKLSBuYW1lOiAnbXktY3VzdG9tLXN0ZXAnCiAgLSBlY2hvICdSdW5uaW5nIGN1c3RvbSBjb21tYW5kcycK
